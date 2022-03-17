@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @manarPhD
-- 👀 I’m interested in Data Science and the Latest technologies...
-- 🌱 I’m currently learning The use of Industry 4.0 and Machine learning Algorithm to optimize the collection of waste
-- 💞️ I’m looking to collaborate on Waste management in smart cities
-- 📫 How to reach me : manar.phd.2021@gmail.com
-
-<!---
-manarPhD/manarPhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+We collected data from 448 coffee shops in the area Rabat-Sale-Kenitra. We calculated the distance matrix for those coffees shops and predicted the coffee waste per date [found in files I_n.xlsx] where n in {50,100,150,200,250,300,350,400,448} and then in files I_n_dayj.xlsx where n in {50,100,150,200,250,300,350,400,448} and j in {1,2,3} we state the amount of waste at the end of  each day in each coffee shop waste bin
 
